@@ -1,8 +1,8 @@
-.button{
+.button{  /* The properties below allow the button to be centered unresponsively on the web page*/
   margin: 0 auto;
   display: block;
   padding: 30px;
   margin-top: 20%;   
 }
 
-.green{ background-color: green}
+.green{ background-color: green} 
